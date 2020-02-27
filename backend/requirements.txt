@@ -5,7 +5,7 @@ astroid==2.1.0
 attrs==19.2.0
 autopep8==1.4.3
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.1
 certifi==2019.9.11
 cffi==1.12.3
 chardet==3.0.4
