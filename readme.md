@@ -109,8 +109,6 @@ which gives
 .../project/backend/env/bin/python3
 ```
 
-`...` means your upper folder directory.
-
 8. Then you need to install python packages using the following command:
 
 ```shell
@@ -146,6 +144,4 @@ npm start
 ```
 
 Now you can see the application is running on `localhost:3000`. Note that the default size of fronts in different computer may vary, in order to have better user experience, we recommend that you can shrink your browser to 90% using the following command: `command` + `-` key on your keyboard.
-
-If there are any issues, please email me: `liangrui00@gmail.com` or `rui.liang1@student.unsw.edu.au`, or you can text me or call me using `0451238789`.
 
