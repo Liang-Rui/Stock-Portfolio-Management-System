@@ -8,13 +8,13 @@ This project aims at developing a high performance cross-platform responsive app
 - [x] User Profile
 - [x] Authentication
 - [x] Administration
-- [x] Fuzzy Stock Search
-- [x] Interactive Pie Charts, Line Graphs for portfolio management console
+- [x] Fuzzy Search
+- [x] Interactive Pie Charts, Line Graphs for Portfolio Management Console
 - [x] Stock Holding List
-- [x] Interactive Candlestick Chart for stock detail view
+- [x] Interactive Candlestick Chart for Stock Detail View
 - [x] News Feed
 - [x] Stock Price Prediction
-- [x] Factor Analysis for stock recommendation
+- [x] Factor Analysis for Stock Recommendation
 
 ### 1. Major system requirements
 
@@ -41,7 +41,7 @@ First you need to download the databases for our project, **make sure the projec
 
 #### Setup backend server
 
-1. First we need to install `homebrew` on mac, open your mac `terminal` and input the following command (since the pdf file cannot display the full length of the command, you can either type each character in the terminal or open readme.md file on the project root folder and copy the text):
+1. First we need to install `homebrew` on mac, open your mac `terminal` and input the following command (since the pdf file cannot display the full length of the command, you can either type each character in the terminal or open README.md file on the project root folder and copy the text):
 
 ```shell
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -127,15 +127,11 @@ which gives
 .../project/backend/env/bin/python3
 ```
 
-`...` means your upper folder directory.
-
 8. Then you need to install python packages using the following command:
 
 ```shell
 pip3 install -r requirements.txt
 ```
-
-
 
 9. After all the packages are installed, you can start the server in the `project/backend/src` folder:
 
